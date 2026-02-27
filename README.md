@@ -17,3 +17,9 @@
 
       
 Construir um portifólio de langchain utilizando o llama da meta
+
+
+### MCP
+## Instalar o UV (será utilizado para instalar o fastmcp)
+1. Instale o UV no venv utilizando o pip 
+   pip install uv
