@@ -19,10 +19,10 @@
 Construir um portifólio de langchain utilizando o llama da meta
 
 
-### MCP
+## MCP
 
-## Instalar o UV - Um pacote e gerenciador de projetos em Python extremamente rápido escrito em Rust.(semelhante ao pip, porém para projetos de IA parece performar melhor)
-1. Existem duas maneiras de instalar o uv
+### Instalar o UV - Um pacote e gerenciador de projetos em Python extremamente rápido escrito em Rust.(semelhante ao pip, porém para projetos de IA parece performar melhor)
+1. Existem duas maneiras de instalar o uv  ** (\**)
    1a. Instale direto no seu projeto utilizando o pip 🤣: No terminal digite _pip install uv_
    1b. Vá no Powershell e digite o código _powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"_ --> IMPORTANTE: Feche o terminal e abra novamente, caso contrário não irá rodar.
 Para ambos os casos, para verificar se a instalação foi concluída com êxito, digite uv --version no terminal, se aparecer a versão a  instalação ocorreu com sucesso.
