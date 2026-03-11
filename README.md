@@ -5,7 +5,8 @@
 |-----------|---------|
 | Rodar um modelo | `ollama run <modelo>` |
 | Rodar com prompt direto | `ollama run <modelo> "<prompt>"` |
-| Para fechar/encerra o modelo | `/bye"` |
+| Para fechar/encerra o modelo | `/bye` |
+| Para verificar os dados do prompt | `/bye` |
 | Instalar/baixar um modelo | `ollama pull <modelo>` |
 | Listar modelos instalados | `ollama list` |
 | Remover um modelo | `ollama rm <modelo>` |
